@@ -4,3 +4,9 @@ Socket - розетка
 Curtain - штора
 Table clothe - скатерть
 Floor – этаж
+Prevent - предотвращать
+Amount – количество
+Less – меньше
+Current – текущий
+Fess – признаться
+Allow - позволять
